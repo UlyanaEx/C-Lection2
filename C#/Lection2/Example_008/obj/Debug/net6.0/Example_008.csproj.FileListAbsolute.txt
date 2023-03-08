@@ -1,0 +1,15 @@
+C:\Учеба\C#\Lection2\Example_008\bin\Debug\net6.0\Example_008.exe
+C:\Учеба\C#\Lection2\Example_008\bin\Debug\net6.0\Example_008.deps.json
+C:\Учеба\C#\Lection2\Example_008\bin\Debug\net6.0\Example_008.runtimeconfig.json
+C:\Учеба\C#\Lection2\Example_008\bin\Debug\net6.0\Example_008.dll
+C:\Учеба\C#\Lection2\Example_008\bin\Debug\net6.0\Example_008.pdb
+C:\Учеба\C#\Lection2\Example_008\obj\Debug\net6.0\Example_008.csproj.AssemblyReference.cache
+C:\Учеба\C#\Lection2\Example_008\obj\Debug\net6.0\Example_008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\C#\Lection2\Example_008\obj\Debug\net6.0\Example_008.AssemblyInfoInputs.cache
+C:\Учеба\C#\Lection2\Example_008\obj\Debug\net6.0\Example_008.AssemblyInfo.cs
+C:\Учеба\C#\Lection2\Example_008\obj\Debug\net6.0\Example_008.csproj.CoreCompileInputs.cache
+C:\Учеба\C#\Lection2\Example_008\obj\Debug\net6.0\Example_008.dll
+C:\Учеба\C#\Lection2\Example_008\obj\Debug\net6.0\refint\Example_008.dll
+C:\Учеба\C#\Lection2\Example_008\obj\Debug\net6.0\Example_008.pdb
+C:\Учеба\C#\Lection2\Example_008\obj\Debug\net6.0\Example_008.genruntimeconfig.cache
+C:\Учеба\C#\Lection2\Example_008\obj\Debug\net6.0\ref\Example_008.dll
